@@ -1,0 +1,9 @@
+h1,h2{
+    font-family:fantasy;   
+    text-decoration: overline;
+}
+div{
+    background-image: url(./travelguru.jpg);
+    background-size: cover;
+    border: 5px solid darkcyan;
+}

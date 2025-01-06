@@ -1,0 +1,80 @@
+.box{
+    height: 60px;
+    background-color: lightsteelblue;
+    color: azure;
+    display: flex;
+    flex: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.main{
+    background-image: url(./travelguru.jpg);
+    background-size: contain;
+}
+h4{
+    color: darkslateblue;
+}
+.min:hover{
+    border: 5px solid;
+}
+.min{
+    display: flex;
+    flex: wrap;
+    filter: brightness(1.5px);
+}
+h1{
+    background-color: deeppink;
+    color: aquamarine;
+    text-align: center;
+    text-decoration: dashed;
+    direction: right;
+}
+h2{
+    color: indigo;
+}
+h4{
+    color: indigo;
+}
+.h2{
+    background-color: beige;
+    color: fuchsia;
+}
+.h3{
+    background-color: darksalmon;
+    color: blanchedalmond;
+}
+.h4{
+    background-color: darkcyan;
+    color: orange;
+}
+.h5{
+    background-color: khaki;
+    color: darkmagenta;
+}
+.h6{
+    background-color: darkseagreen;
+    color: deeppink;
+}
+h3{
+    text-align: center;
+    color: darksalmon;
+    background-color: indigo;
+    border-radius: 15px;
+}
+.item{
+    display: inline-block;
+    align-items: center;
+}
+.grid-container{
+    display: flex;
+    flex: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+img{
+    filter: drop-shadow(15px 20px 15px black);
+    border-radius: 10px;
+}
+img:hover{
+    border: 8px solid olivedrab;
+}
